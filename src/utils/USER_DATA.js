@@ -1,0 +1,48 @@
+export const USER_DATA = [
+     {
+        id:1,
+        name:"Gouarav",
+        age:22
+     },
+     {
+        id:2,
+        name:"Sourav",
+        age:26
+     },
+     {
+        id:3,
+        name:"Khalid",
+        age:28
+     },
+     {
+        id:4,
+        name:"Sasanka",
+        age:21
+     },
+     {
+        id:5,
+        name:"Srinjoy",
+        age:22
+     },
+     {
+        id:6,
+        name:"Rahul",
+        age:22
+     },
+     {
+        id:7,
+        name:"Sahil",
+        age:24
+     },
+     {
+        id:8,
+        name:"Gaurab Roy",
+        age:26
+     },
+     {
+        id:9,
+        name:"Oindrila",
+        age:27
+     }
+];
+
